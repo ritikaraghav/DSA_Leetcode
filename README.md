@@ -88,4 +88,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0283-move-zeroes) |
+| [1288-remove-covered-intervals](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1288-remove-covered-intervals) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
