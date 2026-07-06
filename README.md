@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0463-island-perimeter) |
 | [1288-remove-covered-intervals](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1288-remove-covered-intervals) |
