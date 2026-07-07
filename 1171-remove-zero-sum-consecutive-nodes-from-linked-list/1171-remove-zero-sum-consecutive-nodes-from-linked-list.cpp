@@ -1,42 +1,24 @@
 class Solution {
 public:
     ListNode* removeZeroSumSublists(ListNode* head) {
-        vector<int> v;
-
-        ListNode* temp = head;
-        while (temp != NULL) {
-            v.push_back(temp->val);
-            temp = temp->next;
-        }
-
-        while (true) {
-            bool found = false;
-
-            for (int i = 0; i < v.size() && !found; i++) {
-                int sum = 0;
-
-                for (int j = i; j < v.size(); j++) {
-                    sum += v[j];
-
-                    if (sum == 0) {
-                        v.erase(v.begin() + i, v.begin() + j + 1);
-                        found = true;
-                        break;
-                    }
-                }
-            }
-
-            if (!found)
-                break;
-        }
-
-
         ListNode* dummy = new ListNode(0);
-        temp = dummy;
+        dummy->next = head;
 
-        for (int x : v) {
-            temp->next = new ListNode(x);
-            temp = temp->next;
+        unordered_map<int, ListNode*> mp;
+
+        int prefix = 0;
+
+        // First pass
+        for (ListNode* cur = dummy; cur; cur = cur->next) {
+            prefix += cur->val;
+            mp[prefix] = cur;
+        }
+
+        // Second pass
+        prefix = 0;
+        for (ListNode* cur = dummy; cur; cur = cur->next) {
+            prefix += cur->val;
+            cur->next = mp[prefix]->next;
         }
 
         return dummy->next;
