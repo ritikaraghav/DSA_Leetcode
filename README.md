@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0066-plus-one) |
+| [0179-largest-number](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0179-largest-number) |
 | [0283-move-zeroes](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0463-island-perimeter) |
 | [1288-remove-covered-intervals](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0179-largest-number) |
 | [1288-remove-covered-intervals](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1288-remove-covered-intervals) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0179-largest-number) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Backtracking
 |  |
@@ -134,5 +137,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0179-largest-number) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
