@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0268-missing-number) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0463-island-perimeter) |
 ## Binary Search
 |  |
