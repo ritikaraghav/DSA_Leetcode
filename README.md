@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0054-spiral-matrix](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0179-largest-number) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0463-island-perimeter) |
 ## Binary Search
 |  |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
