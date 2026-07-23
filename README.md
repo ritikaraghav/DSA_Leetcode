@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0367-valid-perfect-square) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
