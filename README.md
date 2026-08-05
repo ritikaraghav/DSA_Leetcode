@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0208-implement-trie-prefix-tree](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0268-missing-number) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Array
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0179-largest-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0344-reverse-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -244,4 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
