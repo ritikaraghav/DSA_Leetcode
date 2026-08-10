@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0463-island-perimeter) |
 | [1260-shift-2d-grid](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0268-missing-number) |
 | [1288-remove-covered-intervals](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0268-missing-number) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Number Theory
 |  |
 | ------- |
@@ -263,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
