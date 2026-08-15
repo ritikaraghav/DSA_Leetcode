@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0268-missing-number) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0268-missing-number) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Number Theory
