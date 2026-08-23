@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1763-longest-nice-substring](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1763-longest-nice-substring) |
 ## Array
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0344-reverse-string](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0344-reverse-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1763-longest-nice-substring](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1763-longest-nice-substring) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Backtracking
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [1763-longest-nice-substring](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0268-missing-number) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1763-longest-nice-substring](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1763-longest-nice-substring) |
 ## Number Theory
 |  |
 | ------- |
@@ -287,4 +291,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1652-defuse-the-bomb) |
+| [1763-longest-nice-substring](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
