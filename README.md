@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1763-longest-nice-substring](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1763-longest-nice-substring) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Array
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1652-defuse-the-bomb](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0463-island-perimeter) |
 | [1260-shift-2d-grid](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1260-shift-2d-grid) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Binary Search
 |  |
 | ------- |
