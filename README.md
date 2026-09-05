@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0567-permutation-in-string](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1763-longest-nice-substring](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1763-longest-nice-substring) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0344-reverse-string](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0567-permutation-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1763-longest-nice-substring](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1763-longest-nice-substring) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1652-defuse-the-bomb) |
