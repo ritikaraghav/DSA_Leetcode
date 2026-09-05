@@ -15,7 +15,7 @@ public:
                 return false;
         }
 
-        // Check every column
+        //Check every column
         for (int j = 0; j < n; j++) {
             unordered_set<int> st;
 
