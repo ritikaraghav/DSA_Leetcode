@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0048-rotate-image) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/0179-largest-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
