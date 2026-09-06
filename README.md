@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1652-defuse-the-bomb](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1652-defuse-the-bomb) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ritikaraghav/DSA_Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
