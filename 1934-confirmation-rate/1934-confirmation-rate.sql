@@ -4,5 +4,5 @@ select
     from Signups as s 
         left join Confirmations as c 
             on s.user_id = c.user_id 
-    group by user_id;
+        group by user_id;
 
